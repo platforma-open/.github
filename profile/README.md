@@ -11,14 +11,12 @@ Platforma connects sequencing, experimental, structural, functional, and develop
 
 ## What can Platforma be used for?
 
-Platforma provides modular workflows for analyzing biological data and supporting decisions across biologics discovery and immune research.
-
-- **Antibody discovery:** Analyze antibody and BCR sequencing data, identify enriched clones, investigate clonal lineages and affinity maturation, evaluate sequence and structural liabilities, and prioritize candidates for further testing.
-- **TCR discovery:** Analyze TCR repertoires, identify clonotypes, cluster sequences by similarity or predicted specificity, and integrate repertoire and experimental data.
-- **Peptide discovery:** Analyze peptide display and selection data to identify enriched peptide sequences and prioritize candidates.
-- **Immune repertoire analysis:** Analyze BCR and TCR repertoires, including clonotyping, diversity, V/J gene usage, clonotype abundance, convergence, generation probability, and somatic hypermutation.
-- **Single-cell and multiomics:** Integrate V(D)J sequencing with single-cell RNA-seq, antigen-binding measurements, and other cellular annotations.
-- **Bulk RNA-seq:** Perform read mapping, differential expression, pathway analysis, and interactive exploration of gene expression data.
+Platforma provides modular workflows for analyzing biological data and supporting decisions across biologics discovery and immune research:
+- **[In vivo antibody discovery](https://platforma.bio/solutions/in-vivo-antibody-discovery)** — Analyze antibody and BCR sequencing data, investigate clonal lineages and affinity maturation, and find diverse, developable lead candidates
+- **[In vitro antibody discovery](https://platforma.bio/solutions/in-vitro-antibody-discovery)** — Analyze antibody sequencing data, identify enriched clones, evaluate sequence and structural liabilities, and prioritize candidates for further testing.
+- **[Peptide discovery](https://platforma.bio/solutions/peptide-discovery)** — Analyze peptide display and selection data to identify enriched peptide sequences and prioritize candidates.
+- **[Translational research](https://platforma.bio/solutions/immune-research)** — Analyze BCR and TCR repertoires, including clonotyping, diversity, V/J gene usage, clonotype abundance, and track responses across timepoints or cohorts.
+- **[Single-cell multiomics](https://platforma.bio/solutions/multi-omics)** — Integrate V(D)J sequencing with single-cell RNA-seq, antigen-binding measurements, and other cellular annotations.
 
 ---
 

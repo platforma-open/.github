@@ -1,4 +1,4 @@
-# Platforma Open
+# Platforma
 
 Open-source analysis and decision-making blocks for [Platforma](https://platforma.bio/), a biologics discovery platform by [MiLaboratories](https://github.com/milaboratory).
 
